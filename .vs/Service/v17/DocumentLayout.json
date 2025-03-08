@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev4\\Assignment2Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\services\\replaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\services\\replaceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\services\\ireplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\services\\ireplace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\model\\regexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\model\\regexmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|c:\\dev4\\assignment2service\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BFC1BC92-1132-4C46-97B2-152F7CC10752}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "Service\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:50.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IReplace.cs",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\Services\\IReplace.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\IReplace.cs",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\Services\\IReplace.cs",
+              "RelativeToolTip": "Service\\Services\\IReplace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:50.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegexModel.cs",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\Model\\RegexModel.cs",
+              "RelativeDocumentMoniker": "Service\\Model\\RegexModel.cs",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\Model\\RegexModel.cs",
+              "RelativeToolTip": "Service\\Model\\RegexModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:50.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T14:03:50.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\Program.cs",
+              "RelativeDocumentMoniker": "Service\\Program.cs",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\Program.cs",
+              "RelativeToolTip": "Service\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:50.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\appsettings.json",
+              "RelativeDocumentMoniker": "Service\\appsettings.json",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\appsettings.json",
+              "RelativeToolTip": "Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-08T14:03:50.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReplaceService.cs",
+              "DocumentMoniker": "C:\\dev4\\Assignment2Service\\Service\\Services\\ReplaceService.cs",
+              "RelativeDocumentMoniker": "Service\\Services\\ReplaceService.cs",
+              "ToolTip": "C:\\dev4\\Assignment2Service\\Service\\Services\\ReplaceService.cs",
+              "RelativeToolTip": "Service\\Services\\ReplaceService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T14:03:50.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
